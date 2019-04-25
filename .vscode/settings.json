@@ -1,0 +1,7 @@
+{
+    "objectscript.autoCompile": true,
+    "objectscript.conn.active": true,
+    "objectscript.conn.ns": "EXAMPLE",
+    "objectscript.conn.port": 52773,
+    "objectscript.conn.version": 3
+}
